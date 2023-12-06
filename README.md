@@ -1,4 +1,4 @@
-# ts-aoc-starter
+This is a Typescript projects bootstrapped with [`npx create-ts-aoc-starter`](https://nx.dev/advent-of-code)
 
 ## Getting Started
 
@@ -37,12 +37,6 @@ npm run day-1-a:sample
 ```
 
 To run your solution against your actual data set, run the following command:
-
-```terminal
-nx day-1-a
-```
-
-or
 
 ```terminal
 npm run day-1-a
