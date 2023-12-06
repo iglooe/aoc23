@@ -33,12 +33,6 @@ Add your solution to the `day-X-a.ts` file.
 To run your solution against your sample data set, run the following command:
 
 ```terminal
-nx day-1-a --data=sample
-```
-
-or
-
-```terminal
 npm run day-1-a:sample
 ```
 
